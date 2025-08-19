@@ -1,3 +1,5 @@
+import "./assets/stylesheets/index.css";
+
 import { BrowserRouter, Routes, Route } from "react-router";
 import { ROUTES } from "./routes/routes";
 

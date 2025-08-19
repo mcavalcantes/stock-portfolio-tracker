@@ -1,0 +1,79 @@
+@font-face {
+  font-family: Figtree;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../fonts/figtree/Figtree-Light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Figtree;
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../fonts/figtree/Figtree-LightItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Figtree;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/figtree/Figtree-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Figtree;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/figtree/Figtree-Italic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Figtree;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/figtree/Figtree-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Figtree;
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../fonts/figtree/Figtree-MediumItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Figtree;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/figtree/Figtree-SemiBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Figtree;
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../fonts/figtree/Figtree-SemiBoldItalic.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Figtree;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/figtree/Figtree-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: Figtree;
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../fonts/figtree/Figtree-BoldItalic.woff2") format("woff2");
+}

@@ -36,8 +36,7 @@ export function Login() {
     ) as UserLoginType;
 
     const newFormError: UserLoginType = {
-      email: "",
-      password: "",
+      ...DEFAULT_LOGIN,
     };
 
     try {
